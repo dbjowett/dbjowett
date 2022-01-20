@@ -1,9 +1,13 @@
 ## Hi there, my name is Daniel.👋
-##### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
+#### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
 
 - 🔭 I’m currently working on a movie site using Next.js
 - 🌱 I’m currently learning OAUth and Typescript
-- 📫 Reach me through email at [dbjowett@gmail.com][]
+- 👻 I'm excited to learn React Native
+- 📫 Reach me through email at dbjowett@gmail.com
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbjowett)](https://github.com/dbjowett/github-readme-stats)
 
 <!--
 **dbjowett/dbjowett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

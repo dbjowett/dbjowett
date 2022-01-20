@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there my name is Daniel.👋
+### I am a Canadian 🇨🇦
+### Living in Korea 🇰🇷
+
+- 🔭 I’m currently working on a movie site using Next.js
+- 🌱 I’m currently learning OAUth and Typescript
+
+- 📫 Reach me through (email)[dbjowett@gmail.com]
 
 <!--
 **dbjowett/dbjowett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

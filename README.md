@@ -1,5 +1,5 @@
-### Hi there, my name is Daniel.👋
-# I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
+## Hi there, my name is Daniel.👋
+##### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
 
 - 🔭 I’m currently working on a movie site using Next.js
 - 🌱 I’m currently learning OAUth and Typescript

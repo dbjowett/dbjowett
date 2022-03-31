@@ -2,7 +2,7 @@
 #### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
 
 - 🔭 I’m currently working on a movie site using Next.js
-- 🌱 I’m currently learning OAUth and Typescript
+- 🌱 I’m currently learning NextAuth and Typescript
 - 👻 I'm excited to learn React Native
 - 📫 Reach me through email at dbjowett@gmail.com
 

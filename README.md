@@ -1,8 +1,7 @@
 ## Hi there, my name is Daniel.👋
 #### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
 
-- 🔭 I’m currently working with Conun Global in Seoul, Korea.
-- 🌱 I’m currently using React and building an Electron application with the team at Conun. 
+- 🔭 I’m currently working with Thumb Tech in Seoul, Korea. 
 - 📫 Reach me through email at dbjowett@gmail.com
 
 

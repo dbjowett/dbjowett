@@ -1,7 +1,7 @@
 ## Hi there, my name is Daniel.👋
 #### I am a British 🇬🇧 born Canadian 🇨🇦 Living in Korea 🇰🇷
 
-- 🔭 I’m currently working with Thumb Tech in Seoul, Korea. 
+- 🔭 I’m currently working with Glassdome in Seoul, Korea. 
 - 📫 Reach me through email at dbjowett@gmail.com
 
 
